@@ -1,0 +1,10 @@
+{
+  "set": {
+    "browser": [
+      {
+        "capability": "chrome",
+        "name": "Chrome OS X"
+      }
+    ]
+  }
+}
